@@ -1,2 +1,3 @@
 This is the chapter 1 story.
-This looks pretty nice compare with the git CLI.
+This looks pretty nice compared with the git CLI.
+This is for testing the commit in the experimental branch. Because already I have merged this with the main branch.
