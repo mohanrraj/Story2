@@ -1,1 +1,2 @@
 This is the chapter 1 story.
+This looks pretty nice compare with the git CLI.
